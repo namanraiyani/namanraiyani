@@ -1,3 +1,3 @@
 ﻿# namanraiyani
 
-![]https://leetcard.jacoblin.cool/namanraiyani?ext=heatmap
+![](https://leetcard.jacoblin.cool/namanraiyani?ext=heatmap)
